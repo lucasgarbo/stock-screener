@@ -1,5 +1,3 @@
-!pip install yfinance pandas numpy ta requests
-
 import yfinance as yf
 import pandas as pd
 import numpy as np
